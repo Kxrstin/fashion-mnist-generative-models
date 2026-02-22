@@ -52,13 +52,13 @@ pip install torch torchvision matplotlib numpy
     <th>Original vs. Reconstruction</th>
   </tr>
   <tr>
-    <td><img src="img/original_vs_reconstructed.png" width="400"></td>
+    <td><img src="img/original_vs_reconstructed.png" width="800"></td>
   </tr>
   <tr>
     <th>Interpolation between two generated samples</th>
   </tr>
   <tr>
-    <td><img src="img/latent_space_interpolation.png" width="400"></td>
+    <td><img src="img/latent_space_interpolation.png" width="800"></td>
   </tr>
 </table>
 
