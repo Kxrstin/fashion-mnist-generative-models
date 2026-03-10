@@ -74,4 +74,4 @@ pip install torch torchvision matplotlib numpy
 
 ## References
 
-* [Fashion-MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist))
+* [Fashion-MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
