@@ -7,7 +7,7 @@ This VAE learns a continuous latent representation of grayscale images of clothi
 
 The structure of the project:
 
-* Building and training a fully connected VAE.
+* Building and training a fully connected variational autoencoder (VAE).
 * Computing the reconstruction and KL-divergence loss.
 * Visualize the reconstructions and compare them with the original images.
 * Sampling from the latent space to generate new images.
